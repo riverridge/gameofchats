@@ -2,7 +2,7 @@
 //  ChatInputContainerView.swift
 //  gameofchats
 //
-//  Created by Brian Voong on 8/10/16.		Mew Branch -- River Ridge 2017
+//  Created by Brian Voong on 8/10/16.		Mew Branch -- River Ridge 2017 push to newbranch_001
 //  Copyright © 2016 letsbuildthatapp. All rights reserved.
 //
 
